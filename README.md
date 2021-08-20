@@ -4,7 +4,7 @@ The SQL koans are a set of koans to introduce you to SQL. See [the website](http
 ## Climb the Mountain
 ```sh
 $ git clone https://github.com/phillipjohnson/sql-koans
-$ python sql-koans/src/path_to_enlightenment.py
+$ python ./src/path_to_enlightenment.py
 ```
 
 ## The Path to Enlightenment
